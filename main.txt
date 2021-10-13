@@ -1,0 +1,4 @@
+Docker is the best tool you can use if you want to develope one single
+application that can run and work uniformly at any environment, laptop
+or public cloud instance thanks to its convergent virtualized packages
+called containers!!
